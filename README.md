@@ -29,7 +29,6 @@ Siga os passos abaixo!
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
-> pkg install npm
 > git clone https://github.com/SrStreetz/Caussz
 > cd Caussz
 > bash install.sh
