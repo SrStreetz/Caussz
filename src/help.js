@@ -9,7 +9,7 @@ const help = (prefix) => {
 🧐 *informações*
   🐊 Prefix: 「  ${prefix}  」
   🐊 Criador : Eduardo (base toin)
-  🐊 *Parcerias*: ${prefix}parceria
+  🐊 *Regras*: ${prefix}regras
 🧐 *SOBRE*
   │
   ├─ 🐊 ${prefix}info
